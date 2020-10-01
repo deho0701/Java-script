@@ -1,1 +1,1 @@
-console.log('tired');
+console.log('start');
