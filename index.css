@@ -1,6 +1,20 @@
-body{
-    background-color: burlywood;
-}
-h1{
-    color:  black;
-}
+body {
+    background-image:url("https://cdn.pixabay.com/photo/2018/05/28/12/09/time-3435879_1280.jpg");
+    background-size: cover;
+  }
+  
+  .btn {
+    cursor: pointer;
+  }
+  
+  h1 {
+    color: black;
+    text-align: center;
+    transition: color 0.5s ease-in-out;
+    margin-top: 140px;
+  }
+  
+  .clicked {
+    color: #7f8c8d;
+  }
+  
